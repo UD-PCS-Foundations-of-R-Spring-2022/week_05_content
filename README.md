@@ -21,7 +21,7 @@ Oftentimes, the data that we work with is not contained in a single table, but m
 
 Complete all questions in the `Week_05_Assignment.Rmd` file.
 
-1.  Open the [assignment URL](https://classroom.github.com/a/8DoUa_KP)
+1.  Open the [assignment URL](https://classroom.github.com/a/81rZDlhz)
 2.  Accept the assignment.
 3.  Open the newly created repository. It will be named `week-05-assignment-<YOUR GITHUB USERNAME>`.
 4.  Clone the repository to your local machine.
